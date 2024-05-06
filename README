@@ -1,0 +1,26 @@
+Project Name: Interactive Open World RPG
+
+Description:
+Create an immersive open-world RPG game with multiple scenes representing diverse environments like forests, villages, dungeons, and castles. Implement a customizable player character with RPG elements such as attributes (health, stamina, mana), inventory system, equipment management, and skill trees.
+
+Key Features:
+
+Character Customization:
+Design a character creation system allowing players to choose appearance, attributes, and starting equipment.
+Implement equipment slots for armor, weapons, and accessories with visual changes on the character.
+Advanced Character Controls:
+Develop a third-person character controller with smooth movement, sprinting, crouching, and combat animations.
+Integrate a dynamic camera system that adjusts based on terrain and player actions.
+Interactive NPCs:
+Create NPC behaviors like quest givers, traders, hostile enemies, and friendly allies.
+Implement dialogue systems with branching conversations and quest progression.
+Quest and Progression System:
+Design a quest system with main storyline quests, side quests, and dynamic events.
+Track player progression through experience points, levels, and skill unlocks.
+Dynamic Environment:
+Utilize Unity's terrain system for diverse landscapes with foliage, weather effects, day-night cycles, and interactive elements (e.g., chests, traps).
+Implement AI systems for wildlife and enemy encounters with patrol routes, aggro mechanics, and combat AI.
+Deployment:
+
+Publish the game as a standalone executable for Windows, macOS, and Linux platforms.
+Create an Android version optimized for mobile devices with touch controls and simplified UI.
